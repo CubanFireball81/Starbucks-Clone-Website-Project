@@ -378,7 +378,6 @@ section a {
     z-index: 1000;
 }
 
-
 /* Media Queries*/
 @media (max-width: 960px) {
     .text-xl {
